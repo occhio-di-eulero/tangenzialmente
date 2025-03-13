@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Tangenzialmente - Guida</title><link href="/tangenzialmente/" rel="alternate"></link><link href="/tangenzialmente/feeds/guida.atom.xml" rel="self"></link><id>/tangenzialmente/</id><updated>2025-01-02T15:30:00+01:00</updated><entry><title>Mio primo articolo TEST</title><link href="/tangenzialmente/primo-articolo.html" rel="alternate"></link><published>2025-01-01T12:00:00+01:00</published><updated>2025-01-02T15:30:00+01:00</updated><author><name>Mio Nome</name></author><id>tag:None,2025-01-01:/tangenzialmente/primo-articolo.html</id><summary type="html">&lt;p&gt;Il primo articolo sul mio sito&lt;/p&gt;</summary><content type="html">&lt;p&gt;Questo è il mio &lt;strong&gt;primo articolo&lt;/strong&gt;. &lt;em&gt;Ciao!&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;uno&lt;/li&gt;
+&lt;li&gt;due&lt;/li&gt;
+&lt;li&gt;tre&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Sezione&lt;/h1&gt;
+&lt;p&gt;Alla prossima.&lt;/p&gt;</content><category term="Guida"></category><category term="sito"></category><category term="tecnologia"></category></entry></feed>
